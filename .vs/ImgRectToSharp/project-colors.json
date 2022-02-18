@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b95599ec-e01a-4719-a704-2d0c78429fe0": {
+      "ProjectGuid": "b95599ec-e01a-4719-a704-2d0c78429fe0",
+      "DisplayName": "ImgRectToSharp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

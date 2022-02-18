@@ -1,0 +1,17 @@
+C:\Users\Asus2070\source\repos\TelegramSaveIconApp\bin\Release\TelegramSaveIconApp.exe.config
+C:\Users\Asus2070\source\repos\TelegramSaveIconApp\bin\Release\TelegramSaveIconApp.exe
+C:\Users\Asus2070\source\repos\TelegramSaveIconApp\bin\Release\TelegramSaveIconApp.pdb
+C:\Users\Asus2070\source\repos\TelegramSaveIconApp\bin\Release\AutoItX3.Assembly.dll
+C:\Users\Asus2070\source\repos\TelegramSaveIconApp\bin\Release\TeleREG.dll
+C:\Users\Asus2070\source\repos\TelegramSaveIconApp\bin\Release\TeleREG.pdb
+C:\Users\Asus2070\source\repos\TelegramSaveIconApp\obj\Release\TelegramSaveIconApp.csproj.AssemblyReference.cache
+C:\Users\Asus2070\source\repos\TelegramSaveIconApp\obj\Release\TelegramSaveIconApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus2070\source\repos\TelegramSaveIconApp\obj\Release\Interop.AutoItX3Lib.dll
+C:\Users\Asus2070\source\repos\TelegramSaveIconApp\obj\Release\TelegramSaveIconApp.csproj.ResolveComReference.cache
+C:\Users\Asus2070\source\repos\TelegramSaveIconApp\obj\Release\TelegramSaveIconApp.Form1.resources
+C:\Users\Asus2070\source\repos\TelegramSaveIconApp\obj\Release\TelegramSaveIconApp.Properties.Resources.resources
+C:\Users\Asus2070\source\repos\TelegramSaveIconApp\obj\Release\TelegramSaveIconApp.csproj.GenerateResource.cache
+C:\Users\Asus2070\source\repos\TelegramSaveIconApp\obj\Release\TelegramSaveIconApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus2070\source\repos\TelegramSaveIconApp\obj\Release\TelegramSaveIconApp.csproj.CopyComplete
+C:\Users\Asus2070\source\repos\TelegramSaveIconApp\obj\Release\TelegramSaveIconApp.exe
+C:\Users\Asus2070\source\repos\TelegramSaveIconApp\obj\Release\TelegramSaveIconApp.pdb
